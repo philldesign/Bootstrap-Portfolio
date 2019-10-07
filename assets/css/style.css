@@ -1,0 +1,38 @@
+
+body { 
+
+    background: url(../images/ep_naturalwhite.png);
+    display: inline-block;
+
+}
+
+.content {
+    margin: 80px;
+}
+
+#name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    background: #4aaaa5; 
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bold;
+
+}
+
+.block {
+
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+
+}
+
+#profilepic {
+    margin: 0px 20px 20px 0px;
+}
