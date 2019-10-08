@@ -6,11 +6,17 @@ body {
 
 }
 
+nav {
+    /* display: inline; */
+}
+
 .content {
     margin: 80px;
 }
 
-#name {
+#name,
+#submit {
+
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: bold;
