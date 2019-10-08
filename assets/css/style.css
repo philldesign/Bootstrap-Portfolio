@@ -1,4 +1,5 @@
 
+
 body { 
 
     background: url(../images/ep_naturalwhite.png);
@@ -15,6 +16,7 @@ body {
 
 .content {
     margin: 80px 0px;
+
 }
 
 #name,
@@ -43,7 +45,13 @@ h1 {
 }
 
 #profilepic {
-    margin: 0px 20px 20px 0px;
+    margin: 0px 25px 25px 0px;
+    size: 20%;
+    float: left;
+}
+
+.foliolink :hover {
+    opacity: .7;
 }
 
 .footer-border {
